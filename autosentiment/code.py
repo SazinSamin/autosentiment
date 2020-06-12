@@ -54,7 +54,7 @@ def pie(data):
 
 """THE number"""
 #Sentiment type numbers
-def number(data):
+def numbers(data):
     comment = pd.DataFrame(data)
     comment = pd.DataFrame(data)
     comment = data.dropna()
