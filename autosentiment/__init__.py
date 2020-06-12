@@ -3,5 +3,5 @@
 # License: MIT
 
 
-from autosentiment.code import pie,analysis_ternary,percentage,number
+from autosentiment.code import pie,analysis_ternary,percentage,numbers
 
