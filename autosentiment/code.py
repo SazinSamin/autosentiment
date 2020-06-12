@@ -52,7 +52,7 @@ def pie(data):
     return pie_chart
 
 
-"""THE number"""
+"""THE numbers"""
 #Sentiment type numbers
 def numbers(data):
     comment = pd.DataFrame(data)
