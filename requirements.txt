@@ -1,4 +1,4 @@
-python==3.6
+python==3
 pandas=='1.0.1'
 textblob=='0.15.3'
 matplotlib=='3.2.0'
