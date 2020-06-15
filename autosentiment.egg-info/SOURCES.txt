@@ -1,0 +1,8 @@
+README.md
+setup.py
+autosentiment/__init__.py
+autosentiment/code.py
+autosentiment.egg-info/PKG-INFO
+autosentiment.egg-info/SOURCES.txt
+autosentiment.egg-info/dependency_links.txt
+autosentiment.egg-info/top_level.txt
