@@ -3,6 +3,7 @@
 ### Author : Sazin Reshed Samin
 
 * Email : <sazinsamin50@gmail.com>
+Page: <https://sazinsamin.github.io/autosentiment/>
 
 
 ## autosentiment is an open source library that generates sentiment type(positive,negetive,neutral) pie char,percentage,number and ternary value for pandas dataframe text portion.
