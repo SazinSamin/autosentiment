@@ -1,5 +1,7 @@
 # Automate sentiment analysis tool
 
+[![Downloads](https://pepy.tech/badge/autosentiment)](https://pepy.tech/project/autosentiment)
+
 ### Author : Sazin Reshed Samin
 
 * Email : <sazinsamin50@gmail.com>
