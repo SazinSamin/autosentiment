@@ -1,5 +1,8 @@
 # Automate sentiment analysis tool
 
+To install copy the below line: 
+### pip install autosentiment
+
 [![Downloads](https://pepy.tech/badge/autosentiment)](https://pepy.tech/project/autosentiment)
 
 ### Author : Sazin Reshed Samin
