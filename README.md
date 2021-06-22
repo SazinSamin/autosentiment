@@ -1,5 +1,7 @@
 # Automate sentiment analysis tool
 
+Verson 2 comming soon !!!!
+
 To install copy the below line: 
 ### pip install autosentiment
 
